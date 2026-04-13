@@ -4,6 +4,7 @@ PlayerRenamer is a simple script used with gimloader in gimkit to change the nam
 * You need to have a [Gimkit](gimkit.com) account.
 * Download [Gimloader](https://gimloader.github.io/) as a chrome extension.
 * Create a new plugin from the plugins menu on Gimkit.
+* Add the main.js file.
 * DISCLAIMER: Player names won't change on others screens, they will sadly only change on yours. 
 
 ---
