@@ -12,7 +12,7 @@
 
 ## Purpose
 
-PlayerRenamer is a lightweight plugin for [Gimkit](https://gimkit.com) that works through the [Gimloader](https://gimloader.github.io/) browser extension. When you host a game, it automatically replaces every player's displayed name with a custom name from your personal name pool — things like `"sigma"`, `"Rizzler"`, or `"ohio skibidi rizz"`. Names are assigned in order as players join and cycle back around if there are more players than names. You can fully customise the name list through a built-in settings menu.
+PlayerRenamer is a lightweight plugin for [Gimkit](https://gimkit.com) that works through the [Gimloader](https://gimloader.github.io/) browser extension. When you host a game, it automatically replaces every player's displayed name with a custom name from your personal name pool — things like `"Dumbledore"`, `"Voldemort"`, or `"Longbottom"`. Names are assigned in order as players join and cycle back around if there are more players than names. You can fully customise the name list through a built-in settings menu.
 
 > **Important:** Name changes are visible **only to you as the host**. Other players see their original names and are completely unaware of any renaming.
 
@@ -74,8 +74,9 @@ Here is what happens inside `main.js` step by step:
 PlayerRenamer comes with a default set of names out of the box:
 
 ```
-NPC_1, sigma, 67 king 67, Hugh, Rizzler, sigmatwizzler, ohio skibidi rizz, 67
+Harry, Hermione, Ron, Hagrid, Dumbledore, Dobby, Longbottom, Voldemort
 ```
+  
 
 To customise the list:
 
