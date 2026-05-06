@@ -8,14 +8,14 @@
 
 // ─── Default name pool ───────────────────────────────────────────────────────
 const DEFAULT_NAMES = [
-  "NPC_1",
-  "sigma",
-  "67 king 67",
-  "Hugh",
-  "Rizzler",
-  "sigmatwizzler",
-  "ohio skibidi rizz",
-  "67",
+  "Harry",
+  "Hermione",
+  "Ron",
+  "Hagrid",
+  "Dumbledore",
+  "Dobby",
+  "Longbottom",
+  "Voldemort",
 ];
 
 // ─── Name assignment ─────────────────────────────────────────────────────────
