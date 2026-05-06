@@ -134,4 +134,4 @@ To customise the list:
 This project is licensed under the [GPL-3.0 License](LICENSE).
 
 ---
-Thank you for using Playerrenamer!!
+Thank you for using PlayerRenamer!!
